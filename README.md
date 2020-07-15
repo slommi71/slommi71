@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am DevOPs Engineers with strong skills in middlware, like IBM WebSphere Application Server, IBM HTTP Server, Apache HTTPD, Nginx....
+I am DevOps Engineers with strong skills in middlware, like IBM WebSphere Application Server, IBM HTTP Server, Apache HTTPD, Nginx....
 🔭 I’m currently working on some automation projects using GitLabs CI/CD pipelines and ansible.
  
 👯 I’m looking to collaborate on 
