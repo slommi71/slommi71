@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am DevOps Engineers with strong skills in middlware, like IBM WebSphere Application Server, IBM HTTP Server, Apache HTTPD, Nginx....
-🔭 I’m currently working on some automation projects using GitLabs CI/CD pipelines and ansible.
+🔭 I’m currently working on some automation projects using GitLabs CI/CD pipelines, ansible, docker and kubernetes.
  
 👯 I’m looking to collaborate on 
 - DevOps Projects
@@ -11,7 +11,7 @@ I am DevOps Engineers with strong skills in middlware, like IBM WebSphere Applic
 - IBM WebSphere
 - SAP Solution Manager
 - integration of applications into large data centers
-- autoamtion of installations, deployments and configuration management
+- automation of installations, deployments and configuration management
 - infrastructure as a code
 
 📫 How to reach me:
